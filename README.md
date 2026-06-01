@@ -26,6 +26,16 @@ The main question addressed in this project is:
 
 ---
 
+## View Notebook
+
+GitHub may not always render Jupyter notebooks directly. For easier viewing, this repository includes an HTML version of the notebook:
+
+[View HTML Notebook](./analyze_ab_test_results_project.html)
+
+You can also view the notebook using nbviewer:
+
+[View Notebook on nbviewer](https://nbviewer.org/github/pepeluseo/analyze-ab-test-results/blob/main/analyze_ab_test_results_project.ipynb)
+
 ## Dataset Description
 
 The dataset contains information about users who participated in the experiment.
